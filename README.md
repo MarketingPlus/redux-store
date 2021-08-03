@@ -22,7 +22,7 @@ a redux store with cool features including apollo server and much more with reac
 ## LINKS 🔗
 
 [REPOSITORY](https://github.com/MarketingPlus/redux-store)
-[DEPLOYED](https://guarded-gorge-49042.herokuapp.com/)
+[DEPLOYED](https://quiet-coast-09429.herokuapp.com/)
 
 <a name="features"></a>
 
