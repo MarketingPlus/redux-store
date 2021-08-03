@@ -6,7 +6,7 @@
 
 a redux store with cool features including apollo server and much more with react app
 
-![SCREENSHOT](https://user-images.githubusercontent.com/77607177/126973693-bd5249fd-4fc7-4781-998b-6e98d4264a51.PNG)
+![SCREENSHOT](https://user-images.githubusercontent.com/77607177/127967074-8dc83195-cee0-4d2d-8909-30dfa996fc5e.png)
 
 ## TABLE OF CONTENTS
 
